@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CODE\\DNU_KIEN_TRUC_PHAN_MEM\\BankApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B1B9CCE-3179-4A7E-AD30-ED76DBC4D166}|BankApp\\BankApp.csproj|d:\\code\\dnu_kien_truc_phan_mem\\bankapp\\bankapp\\eventbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B1B9CCE-3179-4A7E-AD30-ED76DBC4D166}|BankApp\\BankApp.csproj|solutionrelative:bankapp\\eventbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B1B9CCE-3179-4A7E-AD30-ED76DBC4D166}|BankApp\\BankApp.csproj|d:\\code\\dnu_kien_truc_phan_mem\\bankapp\\bankapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B1B9CCE-3179-4A7E-AD30-ED76DBC4D166}|BankApp\\BankApp.csproj|solutionrelative:bankapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B1B9CCE-3179-4A7E-AD30-ED76DBC4D166}|BankApp\\BankApp.csproj|d:\\code\\dnu_kien_truc_phan_mem\\bankapp\\bankapp\\events\\accountdepositeevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B1B9CCE-3179-4A7E-AD30-ED76DBC4D166}|BankApp\\BankApp.csproj|solutionrelative:bankapp\\events\\accountdepositeevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B1B9CCE-3179-4A7E-AD30-ED76DBC4D166}|BankApp\\BankApp.csproj|d:\\code\\dnu_kien_truc_phan_mem\\bankapp\\bankapp\\events\\accountwithdrewevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B1B9CCE-3179-4A7E-AD30-ED76DBC4D166}|BankApp\\BankApp.csproj|solutionrelative:bankapp\\events\\accountwithdrewevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B1B9CCE-3179-4A7E-AD30-ED76DBC4D166}|BankApp\\BankApp.csproj|d:\\code\\dnu_kien_truc_phan_mem\\bankapp\\bankapp\\events\\accountcreateevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B1B9CCE-3179-4A7E-AD30-ED76DBC4D166}|BankApp\\BankApp.csproj|solutionrelative:bankapp\\events\\accountcreateevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B1B9CCE-3179-4A7E-AD30-ED76DBC4D166}|BankApp\\BankApp.csproj|d:\\code\\dnu_kien_truc_phan_mem\\bankapp\\bankapp\\events\\ievent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B1B9CCE-3179-4A7E-AD30-ED76DBC4D166}|BankApp\\BankApp.csproj|solutionrelative:bankapp\\events\\ievent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B1B9CCE-3179-4A7E-AD30-ED76DBC4D166}|BankApp\\BankApp.csproj|d:\\code\\dnu_kien_truc_phan_mem\\bankapp\\bankapp\\bankapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8B1B9CCE-3179-4A7E-AD30-ED76DBC4D166}|BankApp\\BankApp.csproj|solutionrelative:bankapp\\bankapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventBus.cs",
+              "DocumentMoniker": "D:\\CODE\\DNU_KIEN_TRUC_PHAN_MEM\\BankApp\\BankApp\\EventBus.cs",
+              "RelativeDocumentMoniker": "BankApp\\EventBus.cs",
+              "ToolTip": "D:\\CODE\\DNU_KIEN_TRUC_PHAN_MEM\\BankApp\\BankApp\\EventBus.cs",
+              "RelativeToolTip": "BankApp\\EventBus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T07:10:33.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountWithdrewEvent.cs",
+              "DocumentMoniker": "D:\\CODE\\DNU_KIEN_TRUC_PHAN_MEM\\BankApp\\BankApp\\Events\\AccountWithdrewEvent.cs",
+              "RelativeDocumentMoniker": "BankApp\\Events\\AccountWithdrewEvent.cs",
+              "ToolTip": "D:\\CODE\\DNU_KIEN_TRUC_PHAN_MEM\\BankApp\\BankApp\\Events\\AccountWithdrewEvent.cs",
+              "RelativeToolTip": "BankApp\\Events\\AccountWithdrewEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T06:58:48.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountDepositeEvent.cs",
+              "DocumentMoniker": "D:\\CODE\\DNU_KIEN_TRUC_PHAN_MEM\\BankApp\\BankApp\\Events\\AccountDepositeEvent.cs",
+              "RelativeDocumentMoniker": "BankApp\\Events\\AccountDepositeEvent.cs",
+              "ToolTip": "D:\\CODE\\DNU_KIEN_TRUC_PHAN_MEM\\BankApp\\BankApp\\Events\\AccountDepositeEvent.cs",
+              "RelativeToolTip": "BankApp\\Events\\AccountDepositeEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T06:55:47.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountCreateEvent.cs",
+              "DocumentMoniker": "D:\\CODE\\DNU_KIEN_TRUC_PHAN_MEM\\BankApp\\BankApp\\Events\\AccountCreateEvent.cs",
+              "RelativeDocumentMoniker": "BankApp\\Events\\AccountCreateEvent.cs",
+              "ToolTip": "D:\\CODE\\DNU_KIEN_TRUC_PHAN_MEM\\BankApp\\BankApp\\Events\\AccountCreateEvent.cs",
+              "RelativeToolTip": "BankApp\\Events\\AccountCreateEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T06:43:45.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEvent.cs",
+              "DocumentMoniker": "D:\\CODE\\DNU_KIEN_TRUC_PHAN_MEM\\BankApp\\BankApp\\Events\\IEvent.cs",
+              "RelativeDocumentMoniker": "BankApp\\Events\\IEvent.cs",
+              "ToolTip": "D:\\CODE\\DNU_KIEN_TRUC_PHAN_MEM\\BankApp\\BankApp\\Events\\IEvent.cs",
+              "RelativeToolTip": "BankApp\\Events\\IEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T06:40:34.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BankApp",
+              "DocumentMoniker": "D:\\CODE\\DNU_KIEN_TRUC_PHAN_MEM\\BankApp\\BankApp\\BankApp.csproj",
+              "RelativeDocumentMoniker": "BankApp\\BankApp.csproj",
+              "ToolTip": "D:\\CODE\\DNU_KIEN_TRUC_PHAN_MEM\\BankApp\\BankApp\\BankApp.csproj",
+              "RelativeToolTip": "BankApp\\BankApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-27T06:38:24.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CODE\\DNU_KIEN_TRUC_PHAN_MEM\\BankApp\\BankApp\\Program.cs",
+              "RelativeDocumentMoniker": "BankApp\\Program.cs",
+              "ToolTip": "D:\\CODE\\DNU_KIEN_TRUC_PHAN_MEM\\BankApp\\BankApp\\Program.cs",
+              "RelativeToolTip": "BankApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T06:31:09.054Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
